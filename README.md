@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/Ujwal-27K/Portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Potfolio" /></a>&nbsp;
 
 ## 🛠 Skills
-<img width="7%" src="https://www.svgrepo.com/show/374171/vscode.svg">
+<img width="7%" src="https://www.svgrepo.com/show/374171/vscode.svg https://www.svgrepo.com/show/512317/github-142.svg">
 <img width="7%" src="https://www.svgrepo.com/show/512317/github-142.svg">
 <img width="7%" src="https://www.svgrepo.com/show/452228/html-5.svg">
 <img width="7%" src="https://www.svgrepo.com/show/452185/css-3.svg">
