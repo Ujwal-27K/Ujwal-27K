@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.instagram.com/ujwal_khairnar_27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a target="_blank" href="https://github.com/Ujwal-27K"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a target="_blank" href="https://leetcode.com/Ujwal_Khairnar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" /></a>&nbsp;
-<a target="_blank" href="https://github.com/Ujwal-27K/Portfolioa"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Potfolio" /></a>&nbsp;
+<a target="_blank" href="https://github.com/Ujwal-27K/Portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Potfolio" /></a>&nbsp;
 
