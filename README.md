@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <code><img width="7%" src="https://www.svgrepo.com/show/452228/html-5.svg"></code>
 <code><img width="7%" src="https://www.svgrepo.com/show/452185/css-3.svg"></code>
 <code><img width="7%" src="https://www.svgrepo.com/show/452045/js.svg"></code>
+<br>
 <code><img width="7%" src="https://www.svgrepo.com/show/452183/cpp.svg"></code>
 <code><img width="7%" src="https://www.svgrepo.com/show/354238/python.svg"></code>
 <code><img width="7%" src="https://www.svgrepo.com/show/331488/mongodb.svg"></code>
