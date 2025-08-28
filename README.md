@@ -4,11 +4,6 @@
 
 ### 🚀 Full Stack Developer | 💻 MERN Stack Enthusiast | 🎯 Problem Solver
 
-<div align="center">
-  <img src="me_photo.png" alt="Ujwal Khairnar" width="200" height="200" style="border-radius: 50%; border: 3px solid #667eea;" />
-</div>
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%26+Node.js+Expert;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
 </div>
