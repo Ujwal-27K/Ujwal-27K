@@ -70,6 +70,26 @@
 
 ---
 
+### 🌤️ [Weather Forecast Dashboard](your-vercel-url-here)
+> **Comprehensive weather app with real-time data, forecasts, and air quality monitoring**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WeatherAPI](https://img.shields.io/badge/WeatherAPI-FF6B6B?style=flat-square)
+
+- 🌍 **Real-time weather data** with current conditions and 5-day forecasts
+- 🔍 **Smart city search** with autocomplete suggestions and geolocation
+- 🌬️ **Air quality monitoring** with pollutant levels and health indices
+- 🌙 **Dark/Light mode** with beautiful glassmorphism design
+- ⌨️ **Keyboard shortcuts** and CSV export functionality
+- 📱 **Fully responsive** with PWA capabilities
+
+**[🔗 Live Demo](https://weather-forecast-dashboard-iota.vercel.app/) | [📂 Source Code](https://github.com/Ujwal-27K/weather-forecast-dashboard)**
+
+---
+
 ### 💼 [Portfolio Website](https://portfolio-eta-blush-qsq9j1ksqi.vercel.app/)
 > **Modern, responsive portfolio showcasing my projects and skills**
 
