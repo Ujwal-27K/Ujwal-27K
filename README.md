@@ -122,19 +122,6 @@
 
 ---
 
-### 🌤️ Weather Web Application
-> **Real-time weather data with beautiful UI**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![API](https://img.shields.io/badge/SheCodes_API-FF6B6B?style=flat-square)
-
-- 🌍 **Global weather search** for any city
-- 📊 **Detailed weather information** with forecasts
-- 🎨 **Beautiful, intuitive** user interface
-- 📱 **Responsive design** for all devices
-
----
-
 ## 🏆 Achievements & Recognition
 
 🥈 **2nd Place** - College-level Model-Making Competition at DYPIEMR, Pune  
