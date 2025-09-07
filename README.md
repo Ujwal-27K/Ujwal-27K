@@ -122,6 +122,23 @@
 
 ---
 
+### 🛒 Online Retail Insights Analytics Dashboard
+> **Full-stack application with React frontend and Flask backend providing comprehensive e-commerce analytics for UCI Online Retail II dataset**
+
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Render](https://img.shields.io/badge/Deploy-Render-3E3E3E?style=flat-square&logo=render)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 📊 **Dashboard for sales, orders, customer segments, & geographic analysis**
+- ⚡ **Fast React frontend built with Vite for optimal UI performance**
+- 🐍 **Flask REST API backend with pandas for data processing**
+- 📁 **Supports local CSV files and MySQL database integration**
+- 🚀 **Easy deployment to Render, Vercel, Railway or your own server**
+
+---
+
+
 ## 🏆 Achievements & Recognition
 
 🥈 **2nd Place** - College-level Model-Making Competition at DYPIEMR, Pune  
@@ -134,10 +151,7 @@
 ## 💼 Professional Experience
 
 ### 🚀 **Web Development Intern** | Prodigy InfoTech
-**Jan 2024** | *Building modern web applications and enhancing user experiences*
-
-### 💻 **Web Development Intern** | CodSoft  
-**Dec 2023** | *Developed responsive websites and interactive web applications*
+**Feb 2024** | *Building modern web applications and enhancing user experiences*
 
 ---
 
