@@ -78,33 +78,89 @@ Computer Engineering graduate with strong experience in **full-stack development
 
 # 🚀 Featured Projects  
 
-### 🎨 **Color Palette Generator**  
-_AI-powered palette generator using Colormind API_  
-🔗 **Live:** https://color-palette-generator-ebon-chi.vercel.app/  
-📦 **Code:** https://github.com/Ujwal-27K/color-palette-generator  
+
+### 🎨 [Color Palette Generator](https://color-palette-generator-ebon-chi.vercel.app/)
+> **AI-powered color palette generator with Colormind API integration**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- ✨ **AI-powered** color generation using Colormind API
+- 🔒 **Color locking** system for preserving favorites
+- ⌨️ **Keyboard shortcuts** for enhanced user experience
+- 📱 **Fully responsive** design with modern UI/UX
+- 📋 **One-click copying** of color codes
+
+**[🔗 Live Demo](https://color-palette-generator-ebon-chi.vercel.app/) | [📂 Source Code](https://github.com/Ujwal-27K/color-palette-generator)**
 
 ---
 
-### 🌤️ **Weather Forecast Dashboard**  
-_Real-time weather, AQI, geolocation & PWA support_  
-🔗 **Live:** https://weather-forecast-dashboard-iota.vercel.app/  
-📦 **Code:** https://github.com/Ujwal-27K/weather-forecast-dashboard  
+### 🌤️ [Weather Forecast Dashboard](your-vercel-url-here)
+> **Comprehensive weather app with real-time data, forecasts, and air quality monitoring**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WeatherAPI](https://img.shields.io/badge/WeatherAPI-FF6B6B?style=flat-square)
+
+- 🌍 **Real-time weather data** with current conditions and 5-day forecasts
+- 🔍 **Smart city search** with autocomplete suggestions and geolocation
+- 🌬️ **Air quality monitoring** with pollutant levels and health indices
+- 🌙 **Dark/Light mode** with beautiful glassmorphism design
+- ⌨️ **Keyboard shortcuts** and CSV export functionality
+- 📱 **Fully responsive** with PWA capabilities
+
+**[🔗 Live Demo](https://weather-forecast-dashboard-iota.vercel.app/) | [📂 Source Code](https://github.com/Ujwal-27K/weather-forecast-dashboard)**
 
 ---
 
-### 💼 **Portfolio Website**  
-_Modern & responsive personal portfolio_  
-🔗 **Live:** https://portfolio-eta-blush-qsq9j1ksqi.vercel.app/
+### 💼 [Portfolio Website](https://portfolio-eta-blush-qsq9j1ksqi.vercel.app/)
+> **Modern, responsive portfolio showcasing my projects and skills**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 🎨 **Modern design** with smooth animations
+- 📱 **Mobile-first** responsive layout
+- ⚡ **Fast loading** and optimized performance
+- 📧 **Contact form** integration
+
+**[🔗 Live Demo](https://portfolio-eta-blush-qsq9j1ksqi.vercel.app/) | [📂 Source Code](#)**
 
 ---
 
-### 🛒 **E-Commerce MERN Application**  
-_Authentication, cart, admin panel, secure checkout_
+### 🛒 E-Commerce Web Application
+> **Full-stack MERN application with complete shopping functionality**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+- 🛍️ **Product catalog** with search and filtering
+- 👤 **User authentication** and profile management
+- 🛒 **Shopping cart** functionality
+- 💳 **Secure checkout** process
+- 📊 **Admin dashboard** for inventory management
 
 ---
 
-### 📊 **Online Retail Insights Analytics Dashboard**  
-_Full-stack React + Flask analytics with UCI dataset_
+### 🛒 Online Retail Insights Analytics Dashboard
+> **Full-stack application with React frontend and Flask backend providing comprehensive e-commerce analytics for UCI Online Retail II dataset**
+
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Render](https://img.shields.io/badge/Deploy-Render-3E3E3E?style=flat-square&logo=render)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 📊 **Dashboard for sales, orders, customer segments, & geographic analysis**
+- ⚡ **Fast React frontend built with Vite for optimal UI performance**
+- 🐍 **Flask REST API backend with pandas for data processing**
+- 📁 **Supports local CSV files and MySQL database integration**
+- 🚀 **Easy deployment to Render, Vercel, Railway or your own server**
 
 ---
 
@@ -132,14 +188,6 @@ _Full-stack React + Flask analytics with UCI dataset_
 📜 Certifications:  
 - Beginning C++ Programming – Udemy  
 - Frontend Web Development Ultimate Guide – Udemy  
-
----
-
-# 📈 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=Ujwal-27K&theme=nord&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Ujwal-27K&theme=nord)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-27K&theme=nord&layout=compact)
 
 ---
 
